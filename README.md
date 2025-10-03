@@ -133,6 +133,10 @@ Visit the [Cloud Functions Console](https://console.cloud.google.com/functions) 
 - Check function metrics
 - View logs in real-time
 
+## Advanced Examples
+
+For more complex examples with folder structures, multiple imports, and RESTful APIs, see [README-ADVANCED.md](README-ADVANCED.md).
+
 ## Clean Up
 
 To delete a function:
