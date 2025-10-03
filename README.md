@@ -147,3 +147,4 @@ To delete a function:
 ```bash
 gcloud functions delete FUNCTION_NAME --region us-central1
 ```
+deploy
