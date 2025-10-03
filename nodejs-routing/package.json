@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-routing",
+  "version": "1.0.0",
+  "description": "Node.js routing demo with parameter extraction",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=routingDemo"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0"
+  }
+}

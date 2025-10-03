@@ -137,6 +137,10 @@ Visit the [Cloud Functions Console](https://console.cloud.google.com/functions) 
 
 For more complex examples with folder structures, multiple imports, and RESTful APIs, see [README-ADVANCED.md](README-ADVANCED.md).
 
+## Routing & Parameters
+
+For examples demonstrating page routing, path parameters, query strings, and request parsing, see [README-ROUTING.md](README-ROUTING.md).
+
 ## Clean Up
 
 To delete a function:
