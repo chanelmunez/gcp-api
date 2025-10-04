@@ -1,4 +1,4 @@
-module go-routing
+module example.com/go-routing
 
 go 1.22
 
